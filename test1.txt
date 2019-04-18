@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 4EF5-9414
-
- Directory of C:\Users\Sagar\Desktop\MyProjectX
-
-04/17/2019  03:10 PM    <DIR>          .
-04/17/2019  03:10 PM    <DIR>          ..
-04/17/2019  03:10 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  389,641,957,376 bytes free
+ change 1
